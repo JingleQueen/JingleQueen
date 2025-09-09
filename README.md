@@ -8,6 +8,13 @@
 
 - ⚡ Fun fact **I LOVE cats**
 
+## 🚀 Some Projects I’ve Worked On
+
+- [C-Score Dashboard](https://dashboard.c-score.in/)
+- [VMax Fit](https://vmax.fit/)
+- [ElectricOne](https://electricone.in/)
+- [Travel Hangouts](https://travelhangouts.com/)
+
 <h3 align="left">Connect with me:</h3>
 
 ## 🌐 Socials:
